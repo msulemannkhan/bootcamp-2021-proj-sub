@@ -1,0 +1,17 @@
+{
+  "name": "suleman-greet-cli",
+  "version": "1.0.11",
+  "description": "",
+  "main": "./lib/index.js",
+  "bin": {
+    "suleman": "./bin/index.js"
+  }, 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.8"
+  }
+}
